@@ -1,5 +1,5 @@
 import time
-
+# numpy and pandas used for numerical analysis. 
 import pandas as pd
 
 import numpy as np
@@ -398,7 +398,7 @@ def user_stats(df):
 
     print('-'*40)
 
-    
+# This shows raw data.     
 def display_raw_data(df):
     
     i = 0
