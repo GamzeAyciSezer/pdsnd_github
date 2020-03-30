@@ -12,3 +12,6 @@ chicago.csv new_york_city.csv washington.csv
 
 ### Credits
 Thanks to Udacity for project!
+
+### Special Thanks
+Special thanks to my husband.
