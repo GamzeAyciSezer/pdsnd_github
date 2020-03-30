@@ -23,6 +23,8 @@ DAYS = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'satur
 
 # TO DO: get user input for month (all, january, february, ... , june)
 
+# this function finds month.
+
 def find_month():
 
     while True:
